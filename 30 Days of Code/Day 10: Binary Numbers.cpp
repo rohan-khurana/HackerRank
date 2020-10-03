@@ -15,5 +15,5 @@ int main()
         n>>=1;
     }
     cout << maxCount << endl;
-    return 0;
+    return 2;
 }
