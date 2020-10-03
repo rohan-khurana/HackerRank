@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
     int i = 4;
-    double d = 4.0;
+    double d = 45.0;
     string s = "HackerRank ";
     int j;
     double d2;
