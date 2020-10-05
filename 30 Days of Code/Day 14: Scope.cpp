@@ -1,3 +1,4 @@
+#include <unorderedmap>
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -35,7 +36,7 @@ class Difference {
 
 int main() {
     int N;
-    cin >> N;
+    cin >> N; //input N
     
     vector<int> a;
     
